@@ -1,2 +1,2 @@
 # projet-diversos
-Projetos com variedades de ideias no Git e GhiyHub
+Projetos com variedades de ideias no Git e GhiyHub sempre.
